@@ -1,4 +1,4 @@
-# HackAssembler
+# Hack Machine Language Assembler
 Repository for my C++-programmed Hack Machine Language Assembler 
 
 This is a small, two-pass assembler for the NAND To Tetris course. 
